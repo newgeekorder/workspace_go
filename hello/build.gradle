@@ -1,0 +1,4 @@
+ plugins {
+    id 'com.github.blindpirate.gogradle' version '0.9.3'
+}
+
